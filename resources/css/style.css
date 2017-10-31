@@ -9,6 +9,7 @@ font-size: 50px;
 color: white
 }
 a {
+display: block;
 color: aquamarine;
 font-size: 16px;
 }
